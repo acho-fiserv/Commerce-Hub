@@ -1,7 +1,7 @@
   productPage:
     - hero:
         - image: /assests/image/hero.png #???
-        - descrption: Hero description
+        - descrption: Hero description Test FB 209
     - journey Cards:
         - journeyCard:
             - title: Learn # => learn
